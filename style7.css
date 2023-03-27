@@ -1,0 +1,46 @@
+.one {color:rgb(78, 144, 175);font-weight: bold;font-size: 40px; }
+.two {color:red;font-weight: bold;font-size: 20px; }
+.three {color:blue;font-weight: bold;font-size: 30px; }
+.four {color:pink;font-weight: bold;font-size: 10px; }
+.five {color:rgb(180, 180, 235);font-weight: bold;font-size: 30px; font-size: 2em;}
+.sex {color:yellow;font-weight: bold;font-size: 30px; font-size: 3rem;}
+.seven {color:red;font-weight: bold;font-size: 25px; }
+.night {color:green;font-weight: bold;font-size: 20px;font-family: Arial;}
+.nine {  text-align: center; background-color: aquamarine; color:blue;font-weight:10;font-family: Verdana; }
+.ten {color:pink;font-weight: bold;font-size: 30px; text-shadow: 2px;}
+.one-o { text-decoration: underline ; color:yellow;}
+.one-t {  text-align: center;color: white ;background-color:green; font-weight:20;font-family: Verdana; }
+.one-th {   background-color: pink;color: white ;font-weight:15;font-family: Verdana; }
+.one-f{  text-align: center; background-color: brown; color:black;font-weight:15;}
+.one-fi { text-decoration: underline ; color:paleturquoise;}
+.di { background-color:powderblue;}
+.one-s {  color:yellowgreen;}
+.one-se {  color:red}
+.one-e {  color:red}
+.one-n { color:blue}
+.di-o { background-color:plum;}
+.one-te{text-align: center; color:purple;}
+.two-o {text-align: center; color: pink;}
+.two-t {text-align: center; color: purple;}
+.two-th{text-align: center; color: pink;}
+.two-f{background-color: pink; color: black;}
+.two-fi{color: blue; font-size: 25px;}
+.two-s{background-color: pink; color: black; font-size: 20px;}
+.two-se{background-color: greenyellow;font-weight: bold;font-size: 24px; color: black;}
+.two-e{background-color: pink ;color: black;}
+.di-t{background-color: aqua;}
+.two-te{width: 40px;height: 40 px;  }
+.three-o{width: 30px;height: 50 px; }
+.three-t{width: 70px;height: 70 px;;}
+.three-th{width: 70px;height: 70 px; }
+.three-f{margin: 20px;padding: 50px;; background-color: yellow;}
+.three-fi{margin: 10px;padding: 10px;; background-color: powderblue;}
+
+.di-f{padding:   10px 180px 90px 80px; background-color: slategray;}
+.di-th{padding:20px ; background-color: white;}
+.di-fi{margin: 50px 40px; padding: 10px 500px ; background-color: paleturquoise}
+.three-s {  margin: 50px 40px; padding: 50px ; background-color: paleturquoise;}
+.three-se{   margin: 50px 40px; padding: 10px; background-color: paleturquoise;}
+.three-e {  padding: 10px ; background-color: paleturquoise;}
+.three-n {  padding: 10px ; background-color: white;}
+

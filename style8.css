@@ -1,0 +1,9 @@
+div { padding: 100px 100px}
+.kh{ padding: 10px 200px 0 100px; display: inline;}
+img{width: 160px;height: 150px; border-radius:50%;}
+.one{ font-size: 20px; display: inline;}
+.two{   padding: 10px 500px 0 600px; font-size: 10px; ;}
+.three{  padding: 10px 30px; font-size: 20px; ;}
+.fo{text-align: right;}
+body{background-color: aqua;}
+h1{padding:10px 20px;}
